@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Banking System/*
+!/Simple Banking System/task/
+/Simple Banking System/task/*
+!/Simple Banking System/task/src
+!/Simple Banking System/task/card.db
+
+# Project exclude paths
+/Problems/Exponential expression/out/
+/Problems/Exponential expression/out/production/classes/
+/Problems/Find a value's index/out/
+/Problems/Find a value's index/out/production/classes/
